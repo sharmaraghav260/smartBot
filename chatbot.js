@@ -3,8 +3,8 @@
 'use strict';
 const Botkit = require('botkit');
 
-const slack_token = xoxp-240978436997-241929367975-260891916900-28fdb99258c90d9eea9e4eff0d49b114;
-const slack_outh = xoxb-260186484480-gMMNsiojEHcVgK1WIUgkpbr2;
+const slack_token = xxx;
+const slack_outh = xxx;
 
 exports.fn = {
     //start slackbot
