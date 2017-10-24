@@ -1,0 +1,30 @@
+{
+  "name": "smartbot",
+  "version": "1.0.0",
+  "description": "Slack chatbot with extra smartness",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharmaraghav260/smartBot.git"
+  },
+  "keywords": [
+    "slack",
+    "chatbot",
+    "ibm",
+    "watson"
+  ],
+  "author": "Raghav Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharmaraghav260/smartBot/issues"
+  },
+  "homepage": "https://github.com/sharmaraghav260/smartBot#readme",
+  "dependencies": {
+    "botkit": "^0.6.4",
+    "express": "^4.16.2"
+  }
+}
